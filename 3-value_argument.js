@@ -4,4 +4,6 @@ if (args == 0) {
   console.log("No argument");
 } else {
   console.log(`${args}`);
+  console.log(`HBTN cool`);
+  
 }
